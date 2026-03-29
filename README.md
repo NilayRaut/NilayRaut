@@ -37,4 +37,3 @@
 | [Parallel Video Recognition](https://github.com/yashdeep94/parallel_video_recognition) | 70% E2E speedup; 15.5× CPU preprocessing via Dask on 220K-video dataset | SLURM, DDP, FSDP2, I3D |
 | [RAG Financial Assistant](https://github.com/NilayRaut/financial_content_assistant) | 90% answer accuracy; +40% retrieval relevance via optimized chunking | LangChain, FAISS, GPT-3.5, ada-002 |
 | [FinBERT Sentiment](https://github.com/NilayRaut/finbert-sentiment-optimization) | 97.4% accuracy, 7.5× over baseline | DistilBERT, HuggingFace, Gradio |
-```
