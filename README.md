@@ -24,7 +24,7 @@
 
 ### 📬 Connect with Me
 - **Core Project:** [Aegis Project (FastAPI/LangGraph/Ollama)]([https://github.com/NilayRaut](https://github.com/NilayRaut/aegis-llm-gateway))
-- **Professional:** [LinkedIn](https://linkedin.com/in/nilayraut)  | [cite_start][Hugging Face](https://huggingface.co/NilayR) 
+- **Professional:** [LinkedIn](https://linkedin.com/in/nilayraut)  | [Hugging Face](https://huggingface.co/NilayR) 
 - **Email:** [nilay09raut@gmail.com](mailto:nilay09raut@gmail.com)
   
 ### 🔬 Research & Engineering Highlights
