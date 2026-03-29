@@ -23,7 +23,7 @@
 * **Honors:** 2x recipient of the **Academic Excellence Medal** for top academic distinction.
 
 ### 📬 Connect with Me
-- **Core Project:** [Aegis Project (FastAPI/LangGraph/Ollama)]([https://github.com/NilayRaut](https://github.com/NilayRaut/aegis-llm-gateway))
+- **Core Project:** [Aegis Project (FastAPI/LangGraph/Ollama)](https://github.com/NilayRaut/aegis-llm-gateway)
 - **Professional:** [LinkedIn](https://linkedin.com/in/nilayraut)  | [Hugging Face](https://huggingface.co/NilayR) 
 - **Email:** [nilay09raut@gmail.com](mailto:nilay09raut@gmail.com)
   
